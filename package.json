@@ -1,0 +1,26 @@
+{
+  "name": "dailyicons",
+  "version": "0.0.0",
+  "description": "an icon a day, keep the designer away",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/dailyicons.git"
+  },
+  "keywords": [
+    "icon",
+    "iconset",
+    "iconfont",
+    "sketch",
+    "sketch3"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/dailyicons/issues"
+  },
+  "homepage": "https://github.com/turingou/dailyicons"
+}

@@ -4,3 +4,5 @@ node_modules
 psd
 thumb
 *.log
+package.json
+.npmignore

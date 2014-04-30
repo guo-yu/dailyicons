@@ -8,11 +8,17 @@ dailyicons is a project to collect every icon I've made in Sketch3. This project
 
 All icons list below are located in `./icons` folder.
 
-#### Flyer.im 30/04/2014
+#### Flyer.im (30/04/2014)
 
 flyer.im is one of my project to manage FFP's points and miles, It's also a social network connecting flyers all together to plan trip and hoilday in groups online. this was the very first version of flyer.im, and also my second icon made by Sketch3.
 
 ![Flyer.im](./icons/flyer.im/flyer.im.png)
+
+#### Teabowl (01/05/2014)
+
+Teabowl is a cute japanese teacup icon. It was the very first time I'm using Blur functions in Sketch 3. [Teabowl](https://github.com/turingou/teabowl) is also one of my open source projects.
+
+![Teabowl]('./icons/teabowl/teabowl.png')
 
 ### Contributing
 - Fork this repo

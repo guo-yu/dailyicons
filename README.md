@@ -10,7 +10,7 @@ All icons list below are located in `./icons` folder.
 
 #### Flyer.im 30/04/2014
 
-flyer.im is one of my project to manage FFP's points and miles, It's also a social nextwork connecting flyers all together to plan trip and hoilday in groups online. this was the very first version of flyer.im, and also my second icon made by Sketch3.
+flyer.im is one of my project to manage FFP's points and miles, It's also a social network connecting flyers all together to plan trip and hoilday in groups online. this was the very first version of flyer.im, and also my second icon made by Sketch3.
 
 ![Flyer.im](./icons/flyer.im/flyer.im.png)
 

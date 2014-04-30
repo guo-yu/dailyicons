@@ -18,7 +18,7 @@ flyer.im is one of my project to manage FFP's points and miles, It's also a soci
 
 Teabowl is a cute japanese teacup icon. It was the very first time I'm using Blur functions in Sketch 3. [Teabowl](https://github.com/turingou/teabowl) is also one of my open source projects.
 
-![Teabowl]('./icons/teabowl/teabowl.png')
+![Teabowl](./icons/teabowl/teabowl.png)
 
 ### Contributing
 - Fork this repo

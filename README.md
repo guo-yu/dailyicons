@@ -1,5 +1,3 @@
-# dailyicons 
-
 ![Dailyicons](./icons/dailyicons/dailyicons.png)
 
 an icon a day, keep the designer away.
@@ -25,6 +23,12 @@ Teabowl is a cute japanese teacup icon. It was the very first time I'm using Blu
 #### Dailyicons (02/05/2014)
 
 Dailyicons needs a logo, so I made one last night :) [The logo](#dailyicons) shows above is inspired by GitHub contributions grahic and calendar.
+
+#### Xiaomi (03/05/2014)
+
+![Xiaomi](./icons/xiaomi/xiaomi.png)
+
+This case is a good Bézier curve practice, which contains all four kinds of Path Mode in Sketch3: Straight, Mirrored, Disconnected and Asymmetric. by the way, It's also the logo of one of my projects [Xiaomi](https://github.com/turingou/xiaomi).
 
 ### Contributing
 - Fork this repo

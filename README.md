@@ -36,6 +36,12 @@ This case is a good Bézier curve practice, which contains all four kinds of Pat
 
 ![JS](./icons/js/js.png)
 
+### Day 6: mp3 player (05/05/2014)
+
+It's also a new design for project [player](https://github.com/turingou/player).
+
+![player](./icons/player/player.png)
+
 ### Contributing
 - Fork this repo
 - Clone your repo

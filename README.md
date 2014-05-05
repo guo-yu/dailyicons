@@ -1,5 +1,7 @@
 ![Dailyicons](./icons/dailyicons/dailyicons.png)
 
+# Dailyicons
+
 an icon a day, keep the designer away.
 
 dailyicons is a project to collect every icon I've made in Sketch3. This project contains every icon's source file, output png file (0.5x), all icons under MIT license, easy to reuse or redesign for your purpose.

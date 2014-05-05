@@ -4,31 +4,35 @@ an icon a day, keep the designer away.
 
 dailyicons is a project to collect every icon I've made in Sketch3. This project contains every icon's source file, output png file (0.5x), all icons under MIT license, easy to reuse or redesign for your purpose.
 
-### Icons
+## Icons
 
 All icons list below are located in `./icons` folder.
 
-#### Flyer.im (30/04/2014)
+### Day 1: Flyer.im (30/04/2014)
 
 Flyer.im is one of my project to manage FFP's points and miles, It's also a social network connecting flyers all together to plan trip and hoilday in groups online. this was the very first version of flyer.im, and also my second icon made by Sketch3.
 
 ![Flyer.im](./icons/flyer.im/flyer.im.png)
 
-#### Teabowl (01/05/2014)
+### Day 2: Teabowl (01/05/2014)
 
 Teabowl is a cute japanese teacup icon. It was the very first time I'm using Blur functions in Sketch 3. [Teabowl](https://github.com/turingou/teabowl) is also one of my open source projects.
 
 ![Teabowl](./icons/teabowl/teabowl.png)
 
-#### Dailyicons (02/05/2014)
+### Day 3: Dailyicons (02/05/2014)
 
 Dailyicons needs a logo, so I made one last night :) [The logo](#dailyicons) shows above is inspired by GitHub contributions grahic and calendar.
 
-#### Xiaomi (03/05/2014)
+### Day 4: Xiaomi (03/05/2014)
 
 ![Xiaomi](./icons/xiaomi/xiaomi.png)
 
 This case is a good Bézier curve practice, which contains all four kinds of Path Mode in Sketch3: Straight, Mirrored, Disconnected and Asymmetric. by the way, It's also the logo of one of my projects [Xiaomi](https://github.com/turingou/xiaomi).
+
+### Day 5: a pythonic Javascript logo (04/05/2014)
+
+![JS](./icons/js/js.png)
 
 ### Contributing
 - Fork this repo

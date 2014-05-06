@@ -1,9 +1,9 @@
 ![Dailyicons](./icons/dailyicons/dailyicons.png)
 
 # Dailyicons
+one icon one day made by Sketch3.
 
-an icon a day, keep the designer away.
-
+---
 dailyicons is a project to collect every icon I've made in Sketch3. This project contains every icon's source file, output png file (0.5x), all icons under MIT license, easy to reuse or redesign for your purpose.
 
 ## Icons
@@ -22,25 +22,29 @@ Teabowl is a cute japanese teacup icon. It was the very first time I'm using Blu
 
 ![Teabowl](./icons/teabowl/teabowl.png)
 
-### Day 3: Dailyicons (02/05/2014)
+### Day 3: Dailyicons Logo (02/05/2014)
 
 Dailyicons needs a logo, so I made one last night :) [The logo](#dailyicons) shows above is inspired by GitHub contributions grahic and calendar.
 
-### Day 4: Xiaomi (03/05/2014)
+### Day 4: Xiaomi Mibox icon (03/05/2014)
 
 ![Xiaomi](./icons/xiaomi/xiaomi.png)
 
 This case is a good Bézier curve practice, which contains all four kinds of Path Mode in Sketch3: Straight, Mirrored, Disconnected and Asymmetric. by the way, It's also the logo of one of my projects [Xiaomi](https://github.com/turingou/xiaomi).
 
-### Day 5: a pythonic Javascript logo (04/05/2014)
+### Day 5: a pythonic Javascript icon (04/05/2014)
 
 ![JS](./icons/js/js.png)
 
-### Day 6: mp3 player (05/05/2014)
+### Day 6: a MP3 player (05/05/2014)
 
-It's also a new design for project [player](https://github.com/turingou/player).
+It's also a new logo for project [player](https://github.com/turingou/player).
 
 ![player](./icons/player/player.png)
+
+### Day 7: Yuehu Logo
+
+![yuehu](./icons/yuehu/yuehu.png)
 
 ### Contributing
 - Fork this repo

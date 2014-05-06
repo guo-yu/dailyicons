@@ -9,9 +9,12 @@
 	<key>commit</key>
 	<string>463d76bf23dc890960e184011f80b3dacac572b9</string>
 	<key>fonts</key>
-	<array/>
+	<array>
+		<string>AmericanTypewriter-Light</string>
+		<string>HanziPenTC-W3</string>
+	</array>
 	<key>length</key>
-	<integer>2340106</integer>
+	<integer>3719389</integer>
 	<key>version</key>
 	<integer>36</integer>
 </dict>

@@ -28,7 +28,7 @@ Teabowl is a cute japanese teacup icon. It was the very first time I'm using Blu
 
 #### Day 3: Dailyicons Logo (02/05/2014)
 
-Dailyicons needs a logo, so I made one last night :) [The logo](#dailyicons) shows above is inspired by GitHub contributions grahic and calendar.
+Dailyicons needs a logo, so I made one last night :) This icon shows below is inspired by GitHub contributions grahic and calendar.
 
 ![Dailyicons](./icons/dailyicons/dailyicons.png)
 

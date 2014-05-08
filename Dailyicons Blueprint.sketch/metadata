@@ -11,10 +11,9 @@
 	<key>fonts</key>
 	<array>
 		<string>AmericanTypewriter-Light</string>
-		<string>HanziPenTC-W3</string>
 	</array>
 	<key>length</key>
-	<integer>1383218</integer>
+	<integer>384711</integer>
 	<key>version</key>
 	<integer>36</integer>
 </dict>

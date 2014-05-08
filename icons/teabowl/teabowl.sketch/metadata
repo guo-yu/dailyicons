@@ -11,11 +11,10 @@
 	<key>fonts</key>
 	<array>
 		<string>AmericanTypewriter-Light</string>
-		<string>HanziPenTC-W3</string>
 		<string>LiSongPro</string>
 	</array>
 	<key>length</key>
-	<integer>7116535</integer>
+	<integer>6115303</integer>
 	<key>version</key>
 	<integer>36</integer>
 </dict>

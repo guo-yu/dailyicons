@@ -10,7 +10,7 @@ dailyicons is a project to collect every icon I've made in Sketch3. This project
 
 All icons list below are located in `./icons` folder.
 
-## Dailyicons Blueprint for Sketch 3
+### Dailyicons Blueprint for Sketch 3
 
 a Skecth 3 blueprint is available as `./Dailyicons Blueprint.sketch`, forks and pull requests are welcomed.
 
@@ -50,11 +50,15 @@ It's also a new logo for project [player](https://github.com/turingou/player).
 
 ![player](./icons/player/player.png)
 
-#### Day 7: Yuehu Logo
+#### Day 7: Yuehu Logo (05/06/2014)
 
 This logo is designed for [阅乎](http://yuehu.io).
 
 ![yuehu](./icons/yuehu/yuehu.png)
+
+#### Day 8: handfan (05/07/2014)
+
+![handfan]('./icons/handfan/handfan.png')
 
 ### Contributing
 - Fork this repo and clone it.

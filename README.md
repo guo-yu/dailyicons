@@ -58,7 +58,7 @@ This logo is designed for [阅乎](http://yuehu.io).
 
 #### Day 8: handfan (05/07/2014)
 
-![handfan]('./icons/handfan/handfan.png')
+![handfan](./icons/handfan/handfan.png)
 
 ### Contributing
 - Fork this repo and clone it.

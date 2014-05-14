@@ -60,9 +60,13 @@ This logo is designed for [阅乎](http://yuehu.io).
 
 ![handfan](./icons/handfan/handfan.png)
 
-#### Day 9: douban.fm (05/14/2014)
+#### Day 9: douban.fm (05/13/2014)
 
 ![douban.fm](./icons/douban.fm/douban.fm.png)
+
+#### Day 10: SPM (05/14/2014)
+
+![spm](./icons/spm/spm.png)
 
 ### Contributing
 - Fork this repo and clone it.

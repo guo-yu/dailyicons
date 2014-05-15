@@ -14,41 +14,17 @@ All icons list below are located in `./icons` folder.
 
 a Skecth 3 blueprint is available as `./Dailyicons Blueprint.sketch`, forks and pull requests are welcomed.
 
-#### Day 1: Flyer.im (30/04/2014)
+#### Day 10: SPM (05/14/2014)
 
-Flyer.im is one of my project to manage FFP's points and miles, It's also a social network connecting flyers all together to plan trip and hoilday in groups online. this was the very first version of flyer.im, and also my second icon made by Sketch3.
+![spm](./icons/spm/spm.png)
 
-![Flyer.im](./icons/flyer.im/flyer.im.png)
+#### Day 9: douban.fm (05/13/2014)
 
-#### Day 2: Teabowl (01/05/2014)
+![douban.fm](./icons/douban.fm/douban.fm.png)
 
-Teabowl is a cute japanese teacup icon. It was the very first time I'm using Blur functions in Sketch 3. [Teabowl](https://github.com/turingou/teabowl) is also one of my open source projects.
+#### Day 8: handfan (05/07/2014)
 
-![Teabowl](./icons/teabowl/teabowl.png)
-
-#### Day 3: Dailyicons Logo (02/05/2014)
-
-Dailyicons needs a logo, so I made one last night :) This icon shows below is inspired by GitHub contributions grahic and calendar.
-
-![Dailyicons](./icons/dailyicons/dailyicons.png)
-
-#### Day 4: Xiaomi Mibox icon (03/05/2014)
-
-This case is a good Bézier curve practice, which contains all four kinds of Path Mode in Sketch3: Straight, Mirrored, Disconnected and Asymmetric. by the way, It's also the logo of one of my projects [Xiaomi](https://github.com/turingou/xiaomi).
-
-![Xiaomi](./icons/xiaomi/xiaomi.png)
-
-#### Day 5: a pythonic Javascript icon (04/05/2014)
-
-This javascript icon is inspired by Python logo. :)
-
-![JS](./icons/js/js.png)
-
-#### Day 6: a MP3 player (05/05/2014)
-
-It's also a new logo for project [player](https://github.com/turingou/player).
-
-![player](./icons/player/player.png)
+![handfan](./icons/handfan/handfan.png)
 
 #### Day 7: Yuehu Logo (05/06/2014)
 
@@ -56,17 +32,41 @@ This logo is designed for [阅乎](http://yuehu.io).
 
 ![yuehu](./icons/yuehu/yuehu.png)
 
-#### Day 8: handfan (05/07/2014)
+#### Day 6: a MP3 player (05/05/2014)
 
-![handfan](./icons/handfan/handfan.png)
+It's also a new logo for project [player](https://github.com/turingou/player).
 
-#### Day 9: douban.fm (05/13/2014)
+![player](./icons/player/player.png)
 
-![douban.fm](./icons/douban.fm/douban.fm.png)
+#### Day 5: a pythonic Javascript icon (04/05/2014)
 
-#### Day 10: SPM (05/14/2014)
+This javascript icon is inspired by Python logo. :)
 
-![spm](./icons/spm/spm.png)
+![JS](./icons/js/js.png)
+
+#### Day 4: Xiaomi Mibox icon (03/05/2014)
+
+This case is a good Bézier curve practice, which contains all four kinds of Path Mode in Sketch3: Straight, Mirrored, Disconnected and Asymmetric. by the way, It's also the logo of one of my projects [Xiaomi](https://github.com/turingou/xiaomi).
+
+![Xiaomi](./icons/xiaomi/xiaomi.png)
+
+#### Day 3: Dailyicons Logo (02/05/2014)
+
+Dailyicons needs a logo, so I made one last night :) This icon shows below is inspired by GitHub contributions grahic and calendar.
+
+![Dailyicons](./icons/dailyicons/dailyicons.png)
+
+#### Day 2: Teabowl (01/05/2014)
+
+Teabowl is a cute japanese teacup icon. It was the very first time I'm using Blur functions in Sketch 3. [Teabowl](https://github.com/turingou/teabowl) is also one of my open source projects.
+
+![Teabowl](./icons/teabowl/teabowl.png)
+
+#### Day 1: Flyer.im (30/04/2014)
+
+Flyer.im is one of my project to manage FFP's points and miles, It's also a social network connecting flyers all together to plan trip and hoilday in groups online. this was the very first version of flyer.im, and also my second icon made by Sketch3.
+
+![Flyer.im](./icons/flyer.im/flyer.im.png)
 
 ### Contributing
 - Fork this repo and clone it.

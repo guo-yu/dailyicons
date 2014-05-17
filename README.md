@@ -14,6 +14,10 @@ All icons list below are located in `./icons` folder.
 
 a Skecth 3 blueprint is available as `./Dailyicons Blueprint.sketch`, forks and pull requests are welcomed.
 
+#### Day 11: Maker.vc (05/17/2014)
+
+![spm](./icons/maker.vc/maker.vc.png)
+
 #### Day 10: SPM (05/14/2014)
 
 ![spm](./icons/spm/spm.png)
